@@ -6,3 +6,6 @@
 - **Stat Tracking:** Track stats like health, stamina, charisma, or magic to influence outcomes (e.g., persuading NPCs or surviving combat).
 - **Puzzles:** Integrate riddles, environmental challenges, or item combinations (e.g., "Use the rusty key on the old chest").
 - **Combat:** Turn-based or action-driven (e.g., "Attack with sword" or "Cast fireball").
+
+## AI use
+- use of AI agents for creating and keeping track of the storyline.
